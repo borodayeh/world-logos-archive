@@ -61,7 +61,7 @@ brand-name-wordmark.svg
 ### 1. Setup
 ```bash
 # Fork the repository
-git clone https://github.com/your-username/world-logos-archive.git
+git clone https://github.com/borodayeh/world-logos-archive.git 
 cd world-logos-archive
 
 # Create new branch
