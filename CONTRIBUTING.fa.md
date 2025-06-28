@@ -61,7 +61,7 @@ brand-name-wordmark.svg
 ### 1. آماده‌سازی
 ```bash
 # Fork کردن مخزن
-git clone https://github.com/your-username/world-logos-archive.git
+git clone https://github.com/borodayeh/world-logos-archive.git
 cd world-logos-archive
 
 # ایجاد شاخه جدید
